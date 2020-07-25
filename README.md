@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="balaji-mohan-536897148"><a class="LI-simple-link" href='https://in.linkedin.com/in/balaji-mohan-536897148?trk=profile-badge'>Balaji Mohan</a></div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="balaji-mohan-536897148"><a class="LI-simple-link" href='https://in.linkedin.com/in/balaji-mohan-536897148?trk=profile-badge'>Balaji Mohan</a></div></script>
