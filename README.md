@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi there, I am Balaji Mohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
+<h1>Hi there, I am Balaji Mohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <!--
 **bm0han/bm0han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=bm0han&color=ff69b4)
