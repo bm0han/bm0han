@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi there, I am Balaji Mohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <!--
@@ -25,3 +23,5 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=bm0han&color=ff69b4)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bm0han&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
