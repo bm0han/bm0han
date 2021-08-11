@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Hi there, I am Balaji Mohan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1>
+
 <!--
 **bm0han/bm0han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com//in/balaji-mohan/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bm0han)
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
