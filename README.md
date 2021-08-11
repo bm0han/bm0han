@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com//in/balaji-mohan/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bm0han)
 
+<img src="https://img.shields.io/badge/-DevOps-0078D7?logo=cloud&logoColor=white&logoWidth=30">
 
 
 ![](https://komarev.com/ghpvc/?username=bm0han&color=ff69b4)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bm0han&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bm0han&theme=dark&show_icons=true&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
