@@ -2,12 +2,14 @@
 
 <Contact Me section>
 To Contact me:
+  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com//in/balaji-mohan/)
 &nbsp;
 
 <Badges Section>
 Highlights of my Technical Skills:
+  
 <img src="https://img.shields.io/badge/-Operating%20Systems-0078D7?logo=cloud&logoColor=white&logoWidth=30"> <img src="https://img.shields.io/badge/-Linux-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-Windows-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-macOS-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30">
 
 <img src="https://img.shields.io/badge/-Cloud-0078D7?logo=cloud&logoColor=white&logoWidth=30"> <img src="https://img.shields.io/badge/-AWS-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-Azure-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30">
