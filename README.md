@@ -19,7 +19,9 @@ Highlights of my Technical Skills:
 <img src="https://img.shields.io/badge/-CiCd-0078D7?logo=cloud&logoColor=white&logoWidth=30"> <img src="https://img.shields.io/badge/-Jenkins-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-AWS%20CodePipelines-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-Azure%20DevOps-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30"> <img src="https://img.shields.io/badge/-GitHub%20Actions-61DAFB?logo=cloud&logoColor=white&style=flat-square&logoWidth=30">
 
 <Profile views>
+  
 ![](https://komarev.com/ghpvc/?username=bm0han&color=ff69b4)
+
 <Source: https://github.com/antonkomarev/github-profile-views-counter>
 
 <GitHub Stats>
